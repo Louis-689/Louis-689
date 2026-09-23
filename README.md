@@ -82,9 +82,28 @@ Busco prácticas para <b>Summer 2027</b> en finanzas, tecnología, operaciones o
 <details>
 <summary><b>⚙ Abrir Tech Stack</b></summary>
 <br/>
+
+<p align="center"><b>IA & AUTOMATIZACIÓN</b></p>
+
 <p align="center">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=FFFFFF" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=FFFFFF" alt="n8n" />
+</p>
+
+<p align="center"><b>DATOS & PROGRAMACIÓN</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-22362F?style=for-the-badge&logo=cplusplus&logoColor=F4E8D0" alt="C++" />
   <img src="https://img.shields.io/badge/Excel-385747?style=for-the-badge&logo=microsoftexcel&logoColor=F4E8D0" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
+</p>
+
+<p align="center"><b>HERRAMIENTAS</b></p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-22362F?style=for-the-badge&logo=intellijidea&logoColor=F4E8D0" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Replit-C56D48?style=for-the-badge&logo=replit&logoColor=F4E8D0" alt="Replit" />
   <img src="https://img.shields.io/badge/HubSpot-9D563C?style=for-the-badge&logo=hubspot&logoColor=F4E8D0" alt="HubSpot" />
