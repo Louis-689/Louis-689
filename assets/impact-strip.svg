@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Indicadores de impacto de Luis Cava</title>
+  <desc id="desc">Panel animado con ganancias, equipo, reconocimientos y objetivo profesional.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1">
+      <stop stop-color="#eadcc2"/>
+      <stop offset=".5" stop-color="#f5ead5"/>
+      <stop offset="1" stop-color="#dfc7aa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="16" fill="url(#paper)"/>
+  <path d="M40 38H1160M40 182H1160" stroke="#22362f" stroke-opacity=".22"/>
+  <g stroke="#22362f" stroke-opacity=".16"><path d="M300 58V166M600 58V166M900 58V166"/></g>
+  <g font-family="Arial,sans-serif" text-anchor="middle" fill="#22362f">
+    <g transform="translate(150 0)">
+      <text y="105" font-family="Georgia,serif" font-size="42" font-weight="700">S/ 30K+</text>
+      <text y="135" font-size="11" letter-spacing="3">GANANCIAS GENERADAS</text>
+    </g>
+    <g transform="translate(450 0)">
+      <text y="105" font-family="Georgia,serif" font-size="42" font-weight="700">10</text>
+      <text y="135" font-size="11" letter-spacing="3">PERSONAS LIDERADAS</text>
+    </g>
+    <g transform="translate(750 0)">
+      <text y="105" font-family="Georgia,serif" font-size="42" font-weight="700">13</text>
+      <text y="135" font-size="11" letter-spacing="3">RECONOCIMIENTOS</text>
+    </g>
+    <g transform="translate(1050 0)">
+      <text y="105" font-family="Georgia,serif" font-size="42" font-weight="700">2027</text>
+      <text y="135" font-size="11" letter-spacing="3">OBJETIVO PROFESIONAL</text>
+    </g>
+  </g>
+  <rect x="40" y="38" width="150" height="2" fill="#c56d48">
+    <animate attributeName="x" values="40;1010;40" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="150;70;150" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <g fill="#c56d48">
+    <circle cx="150" cy="166" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="166" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2s" begin=".45s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="166" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2s" begin=".9s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="166" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2s" begin="1.35s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

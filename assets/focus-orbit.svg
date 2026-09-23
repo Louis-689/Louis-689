@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mapa animado de enfoque profesional</title>
+  <desc id="desc">Finanzas cuantitativas, inteligencia artificial, operaciones y estrategia orbitan alrededor de la ejecución.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="48%" r="72%">
+      <stop offset="0" stop-color="#385747"/>
+      <stop offset="1" stop-color="#17241f"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <g fill="none" stroke="#f4e8d0" stroke-opacity=".14">
+    <circle cx="600" cy="180" r="66"/>
+    <circle cx="600" cy="180" r="118" stroke-dasharray="5 12"/>
+    <circle cx="600" cy="180" r="164"/>
+  </g>
+  <g transform="translate(600 180)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/>
+      <circle cx="0" cy="-164" r="8" fill="#e7b78c"/>
+      <circle cx="164" cy="0" r="6" fill="#c56d48"/>
+      <circle cx="0" cy="164" r="8" fill="#f4e8d0"/>
+      <circle cx="-164" cy="0" r="6" fill="#9d563c"/>
+    </g>
+    <circle r="58" fill="#e7b78c" opacity=".18" filter="url(#glow)">
+      <animate attributeName="r" values="48;72;48" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".1;.28;.1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="51" fill="#f4e8d0"/>
+    <text y="-4" text-anchor="middle" fill="#1d2925" font-family="Georgia,serif" font-size="22" font-weight="700">EJECUTAR</text>
+    <text y="19" text-anchor="middle" fill="#9d563c" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">CON CRITERIO</text>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#f4e8d0">
+    <g transform="translate(82 58)">
+      <text font-size="12" letter-spacing="3" fill="#e7b78c">01 · QUANT</text>
+      <text y="29" font-family="Georgia,serif" font-size="25">Modelar incertidumbre</text>
+      <path d="M0 46H270" stroke="#e7b78c" stroke-width="2" stroke-dasharray="270" stroke-dashoffset="270">
+        <animate attributeName="stroke-dashoffset" values="270;0;0" keyTimes="0;.35;1" dur="5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g transform="translate(836 58)" text-anchor="end">
+      <text x="282" font-size="12" letter-spacing="3" fill="#e7b78c">02 · IA</text>
+      <text x="282" y="29" font-family="Georgia,serif" font-size="25">Convertir datos en ventaja</text>
+      <path d="M12 46H282" stroke="#e7b78c" stroke-width="2" stroke-dasharray="270" stroke-dashoffset="270">
+        <animate attributeName="stroke-dashoffset" values="270;270;0;0" keyTimes="0;.2;.55;1" dur="5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g transform="translate(82 278)">
+      <text font-size="12" letter-spacing="3" fill="#e7b78c">03 · OPERACIONES</text>
+      <text y="29" font-family="Georgia,serif" font-size="25">Diseñar eficiencia</text>
+    </g>
+    <g transform="translate(836 278)" text-anchor="end">
+      <text x="282" font-size="12" letter-spacing="3" fill="#e7b78c">04 · ESTRATEGIA</text>
+      <text x="282" y="29" font-family="Georgia,serif" font-size="25">Escalar impacto</text>
+    </g>
+  </g>
+</svg>

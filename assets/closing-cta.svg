@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Invitación animada a construir juntos</title>
+  <desc id="desc">Cierre editorial animado de Luis Cava.</desc>
+  <rect width="1200" height="210" rx="18" fill="#1d2925"/>
+  <g fill="none" stroke="#e7b78c" stroke-opacity=".28">
+    <circle cx="92" cy="105" r="30"><animate attributeName="r" values="24;74;24" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;.05;.6" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1108" cy="105" r="30"><animate attributeName="r" values="74;24;74" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".05;.6;.05" dur="5s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="600" y="88" text-anchor="middle" fill="#f4e8d0" font-family="Georgia,serif" font-size="38" letter-spacing="2">CONSTRUYAMOS ALGO QUE IMPORTE</text>
+  <text x="600" y="126" text-anchor="middle" fill="#e7b78c" font-family="Arial,sans-serif" font-size="12" letter-spacing="5">QUANT · IA · OPERACIONES · ESTRATEGIA</text>
+  <path d="M395 158H805" stroke="#c56d48" stroke-width="3" stroke-linecap="round" stroke-dasharray="410" stroke-dashoffset="410">
+    <animate attributeName="stroke-dashoffset" values="410;0;0;410" keyTimes="0;.35;.78;1" dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
