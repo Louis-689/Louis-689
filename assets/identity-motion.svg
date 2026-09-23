@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-labelledby="title desc">
+  <title id="title">Identidad profesional animada</title>
+  <desc id="desc">Mensajes profesionales de Luis Cava que aparecen de forma alternada.</desc>
+  <rect width="1200" height="116" rx="12" fill="#ede2ce"/>
+  <path d="M42 18H1158M42 98H1158" stroke="#22362f" stroke-opacity=".2"/>
+  <circle cx="600" cy="18" r="4" fill="#c56d48">
+    <animate attributeName="cx" values="42;1158;42" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle" fill="#1d2925">
+    <text x="600" y="66" font-size="30" letter-spacing="3" opacity="0">INGENIERÍA INDUSTRIAL
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.08;.26;.33;1" dur="12s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;.08;.26;.33;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="66" font-size="30" letter-spacing="3" opacity="0">QUANT · IA · ESTRATEGIA
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.32;.4;.59;.66;1" dur="12s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;.32;.4;.59;.66;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="66" font-size="30" letter-spacing="3" opacity="0">CONSTRUYENDO PARA SUMMER 2027
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.65;.73;.92;1" dur="12s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 8;0 0;0 0;0 -8" keyTimes="0;.65;.73;.92;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

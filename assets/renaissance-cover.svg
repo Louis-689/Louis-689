@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2172" height="724" viewBox="0 0 2172 724" role="img" aria-labelledby="title desc">
+  <title id="title">Luis Cava — portada renacentista animada</title>
+  <desc id="desc">Collage renacentista contemporáneo con movimiento editorial sutil.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="2172" height="724" rx="20"/></clipPath>
+    <linearGradient id="glint" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff7df" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff7df" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#fff7df" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop stop-color="#21352f"/>
+      <stop offset=".5" stop-color="#c56d48"/>
+      <stop offset="1" stop-color="#21352f"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="2172" height="724" fill="#e8dcc4"/>
+    <image href="renaissance-color-hero-v4.png" x="0" y="0" width="2172" height="724" preserveAspectRatio="xMidYMid slice">
+      <animate attributeName="x" values="0;-12;0" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="2172;2196;2172" dur="18s" repeatCount="indefinite"/>
+    </image>
+
+    <g fill="none" stroke="#fff4d7" stroke-opacity=".38">
+      <circle cx="1905" cy="142" r="42">
+        <animate attributeName="r" values="36;56;36" dur="5s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values=".12;.55;.12" dur="5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1905" cy="142" r="72">
+        <animate attributeName="r" values="64;86;64" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values=".08;.34;.08" dur="7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <g fill="#fff6df">
+      <circle cx="760" cy="122" r="3"><animate attributeName="opacity" values=".1;1;.1" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="1112" cy="95" r="2"><animate attributeName="opacity" values="1;.1;1" dur="4.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1538" cy="166" r="3"><animate attributeName="opacity" values=".15;.9;.15" dur="5.1s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <rect x="-500" y="0" width="300" height="724" fill="url(#glint)" transform="skewX(-18)">
+      <animate attributeName="x" values="-500;2550" dur="9s" repeatCount="indefinite"/>
+    </rect>
+
+    <path d="M0 698H2172" stroke="#fff7e6" stroke-opacity=".24"/>
+    <rect x="0" y="704" width="2172" height="6" fill="#21352f"/>
+    <rect x="0" y="704" width="360" height="6" fill="url(#edge)">
+      <animate attributeName="x" values="-360;2172" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="2172" height="724" fill="none" stroke="#f7edd7" stroke-opacity=".45" stroke-width="3"/>
+  </g>
+</svg>

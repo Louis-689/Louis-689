@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Pulso de construcción</title>
+  <desc id="desc">Gráfico editorial animado que representa curiosidad, construcción e impacto.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1">
+      <stop stop-color="#ede2ce"/>
+      <stop offset=".5" stop-color="#f4ead8"/>
+      <stop offset="1" stop-color="#e8dbc4"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" x2="1">
+      <stop stop-color="#385747"/>
+      <stop offset=".62" stop-color="#c56d48"/>
+      <stop offset="1" stop-color="#9d563c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="14" fill="url(#paper)"/>
+  <g stroke="#22362f" stroke-opacity=".12">
+    <path d="M55 55H1145M55 105H1145M55 155H1145M55 205H1145"/>
+    <path d="M180 35V210M400 35V210M620 35V210M840 35V210M1060 35V210"/>
+  </g>
+
+  <text x="58" y="30" fill="#22362f" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">PULSO DE CONSTRUCCIÓN · 2027</text>
+  <text x="1142" y="30" text-anchor="end" fill="#9d563c" font-family="Georgia, serif" font-size="12">curiosidad → disciplina → impacto</text>
+
+  <path d="M60 190 C170 186 212 164 290 168 S430 134 510 144 S650 112 730 119 S880 76 965 88 S1070 55 1140 58"
+        fill="none" stroke="url(#trail)" stroke-width="5" stroke-linecap="round" stroke-dasharray="1400" stroke-dashoffset="1400">
+    <animate attributeName="stroke-dashoffset" values="1400;0;0" keyTimes="0;.72;1" dur="5.5s" repeatCount="indefinite"/>
+  </path>
+
+  <g fill="#c56d48">
+    <circle cx="290" cy="168" r="5"><animate attributeName="r" values="4;9;4" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="510" cy="144" r="5"><animate attributeName="r" values="4;9;4" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="730" cy="119" r="5"><animate attributeName="r" values="4;9;4" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="965" cy="88" r="5"><animate attributeName="r" values="4;9;4" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="58" r="6"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g fill="#22362f" font-family="Arial, sans-serif" font-size="10" letter-spacing="2" text-anchor="middle">
+    <text x="290" y="222">APRENDER</text>
+    <text x="510" y="222">MODELAR</text>
+    <text x="730" y="222">CONSTRUIR</text>
+    <text x="965" y="222">MEDIR</text>
+    <text x="1132" y="222">ITERAR</text>
+  </g>
+</svg>
