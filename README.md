@@ -7,42 +7,81 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luis-alejandro-cava-vassi-104424295/">
-    <img src="https://img.shields.io/badge/LinkedIn-22362F?style=flat-square&logo=linkedin&logoColor=F4E8D0" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lcavav8@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-C56D48?style=flat-square&logo=gmail&logoColor=F4E8D0" alt="Correo" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Louis-689&label=Visitas&color=22362F&style=flat-square" alt="Visitas del perfil" />
+  <a href="#perfil"><img src="https://img.shields.io/badge/01_PERFIL-22362F?style=flat-square" alt="Perfil" /></a>
+  <a href="#foco"><img src="https://img.shields.io/badge/02_FOCO-C56D48?style=flat-square" alt="Foco" /></a>
+  <a href="#impacto"><img src="https://img.shields.io/badge/03_IMPACTO-385747?style=flat-square" alt="Impacto" /></a>
+  <a href="#reconocimientos"><img src="https://img.shields.io/badge/04_LOGROS-9D563C?style=flat-square" alt="Logros" /></a>
+  <a href="#formacion"><img src="https://img.shields.io/badge/05_FORMACIÓN-22362F?style=flat-square" alt="Formación" /></a>
+  <a href="#actividad"><img src="https://img.shields.io/badge/06_ACTIVIDAD-C56D48?style=flat-square" alt="Actividad" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-alejandro-cava-vassi-104424295/"><img src="https://img.shields.io/badge/LinkedIn-22362F?style=for-the-badge&logo=linkedin&logoColor=F4E8D0" alt="LinkedIn" /></a>
+  <a href="mailto:lcavav8@gmail.com"><img src="https://img.shields.io/badge/Correo-C56D48?style=for-the-badge&logo=gmail&logoColor=F4E8D0" alt="Correo" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Louis-689&label=Visitas&color=385747&style=for-the-badge" alt="Visitas del perfil" />
 </p>
 
 <img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-## I — PERFIL
+<a id="perfil"></a>
 
-Soy estudiante de **Ingeniería Industrial en la Universidad de Lima** y emprendedor peruano. Trabajo en el punto donde los datos dejan de ser teoría y se convierten en decisiones: mercados, operaciones, tecnología y negocios.
-
-Construyo con mentalidad analítica y obsesión por ejecutar. Actualmente profundizo en **finanzas cuantitativas**, **trading algorítmico**, **inteligencia artificial** y **optimización de operaciones**.
+## 01 — PERFIL
 
 <table>
   <tr>
-    <td width="33%" align="center"><b>S/ 30K+</b><br/><sub>ganancias generadas</sub></td>
-    <td width="33%" align="center"><b>10 personas</b><br/><sub>equipo liderado</sub></td>
-    <td width="33%" align="center"><b>Summer 2027</b><br/><sub>objetivo profesional</sub></td>
+    <td width="58%" valign="top">
+      <h3>Datos → decisiones → ejecución</h3>
+      <p>Soy estudiante de <b>Ingeniería Industrial en la Universidad de Lima</b> y emprendedor peruano. Me muevo entre mercados, tecnología, operaciones y negocios para convertir problemas complejos en decisiones claras y resultados medibles.</p>
+      <p>Mi ventaja está en combinar <b>curiosidad técnica</b>, <b>criterio estratégico</b> y una fuerte obsesión por construir.</p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>Ahora</h3>
+      <p>▸ Finanzas cuantitativas<br/>▸ Trading algorítmico<br/>▸ Inteligencia artificial<br/>▸ Operaciones mineras<br/>▸ Summer 2027</p>
+    </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="./assets/impact-strip.svg" width="100%" alt="Indicadores de impacto" />
+</p>
+
 <img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-## II — EN QUÉ ESTOY TRABAJANDO
+<a id="foco"></a>
 
-- Desarrollando criterio técnico en **modelos cuantitativos y mercados**.
-- Explorando aplicaciones de **IA** para problemas financieros y operativos.
-- Estudiando innovación y eficiencia en **operaciones mineras**.
-- Buscando prácticas para **Summer 2027** en finanzas, tecnología, operaciones o estrategia.
+## 02 — FOCO ACTUAL
 
-### Tech Stack
+<p align="center">
+  <img src="./assets/focus-orbit.svg" width="100%" alt="Mapa animado de enfoque profesional" />
+</p>
 
+<details open>
+<summary><b>01 · Finanzas cuantitativas & mercados</b></summary>
+<br/>
+Modelos, riesgo, señales y decisiones bajo incertidumbre. Estoy desarrollando criterio técnico para entender no solo qué ocurre en un mercado, sino por qué y cómo medirlo.
+</details>
+
+<details>
+<summary><b>02 · Inteligencia artificial aplicada</b></summary>
+<br/>
+Exploro cómo usar IA para automatizar análisis, mejorar decisiones financieras y resolver problemas operativos con una lógica medible.
+</details>
+
+<details>
+<summary><b>03 · Operaciones & minería</b></summary>
+<br/>
+Me interesan la optimización de procesos, la eficiencia operativa y la innovación tecnológica aplicada a entornos industriales y mineros.
+</details>
+
+<details>
+<summary><b>04 · Estrategia & Summer 2027</b></summary>
+<br/>
+Busco prácticas para <b>Summer 2027</b> en finanzas, tecnología, operaciones o estrategia, donde pueda aportar capacidad analítica, energía emprendedora y ejecución.
+</details>
+
+<details>
+<summary><b>⚙ Abrir Tech Stack</b></summary>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-22362F?style=for-the-badge&logo=cplusplus&logoColor=F4E8D0" alt="C++" />
   <img src="https://img.shields.io/badge/Excel-385747?style=for-the-badge&logo=microsoftexcel&logoColor=F4E8D0" alt="Excel" />
@@ -51,38 +90,57 @@ Construyo con mentalidad analítica y obsesión por ejecutar. Actualmente profun
   <img src="https://img.shields.io/badge/HubSpot-9D563C?style=for-the-badge&logo=hubspot&logoColor=F4E8D0" alt="HubSpot" />
   <img src="https://img.shields.io/badge/GitHub-1D2925?style=for-the-badge&logo=github&logoColor=F4E8D0" alt="GitHub" />
 </p>
+</details>
 
 <img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-## III — EMPRENDIMIENTO & LIDERAZGO
+<a id="impacto"></a>
 
-### BonGallete — Fundador & CEO
+## 03 — IMPACTO & LIDERAZGO
 
-Construí y escalé una operación de producción, venta y distribución con más de **S/ 30,000 en ganancias**, presencia en múltiples canales y un equipo de hasta **10 personas**.
-
-### FOPI / OII — Coordinación y círculo fundador
-
-Coordinador de la Olimpiada Internacional de Informática y miembro del círculo fundador de la Federación Olímpica Peruana de Informática en 2024.
-
-### Manchester City Supporters Club Perú — Vicepresidencia Ejecutiva
-
-Organización de eventos, comunicaciones y desarrollo de comunidad.
-
-<img src="./assets/motion-divider.svg" width="100%" alt="" />
-
-## IV — RECONOCIMIENTOS SELECTOS
-
-| Año | Reconocimiento |
-|:---:|---|
-| **2025** | Virtual Harvard Youth Leadership Summit — Recognition of Participation |
-| **2025** | Yale International Relations Essay Competition — Certificate of Participation |
-| **2024** | The Wolves of Wall Street — **Runner-up**, competencia internacional de inversión |
-| **2024** | World Robot Olympiad Perú — **4.º puesto nacional** |
-| **2024** | Coolest Projects — **Mejor Proyecto del Perú** y mención honorífica |
-| **2023** | Concurso Nacional Crea y Emprende — **1.er puesto en Lima y a nivel nacional** |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>BonGallete</h3>
+      <p><b>Fundador & CEO</b></p>
+      <p>Producción, ventas y distribución. Más de <b>S/ 30,000 en ganancias</b> y liderazgo de hasta <b>10 personas</b>.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>FOPI / OII</h3>
+      <p><b>Coordinación & círculo fundador</b></p>
+      <p>Impulso al ecosistema olímpico de informática peruano y coordinación de la OII en 2024.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Man City Perú</h3>
+      <p><b>Vicepresidencia Ejecutiva</b></p>
+      <p>Eventos, comunicaciones y desarrollo de una comunidad deportiva activa.</p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>Abrir archivo completo — 13 reconocimientos</b></summary>
+<summary><b>Ver mi principio de liderazgo</b></summary>
+<br/>
+Liderar es diseñar claridad: definir el objetivo, construir el sistema, medir el avance y crear las condiciones para que otras personas puedan ejecutar mejor.
+</details>
+
+<img src="./assets/motion-divider.svg" width="100%" alt="" />
+
+<a id="reconocimientos"></a>
+
+## 04 — RECONOCIMIENTOS
+
+| Año | Selección destacada | Resultado |
+|:---:|---|---|
+| **2025** | Virtual Harvard Youth Leadership Summit | Participación reconocida |
+| **2025** | Yale International Relations Essay Competition | Certificate of Participation |
+| **2024** | The Wolves of Wall Street | **Runner-up internacional** |
+| **2024** | World Robot Olympiad Perú | **4.º puesto nacional** |
+| **2024** | Coolest Projects | **Mejor Proyecto del Perú** |
+| **2023** | Concurso Nacional Crea y Emprende | **1.er puesto Lima y nacional** |
+
+<details>
+<summary><b>🏆 Explorar los 13 reconocimientos</b></summary>
 <br/>
 
 1. **Virtual Harvard Youth Leadership Summit (VHYLS)** — Recognition of Participation · Harvard University / HPAIR · mar. 2025.
@@ -103,38 +161,55 @@ Organización de eventos, comunicaciones y desarrollo de comunidad.
 
 <img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-## V — FORMACIÓN
+<a id="formacion"></a>
 
-- **Ingeniería Industrial** — Universidad de Lima · 2024–2028.
-- **Data Science for Privacy and Technology** — Harvard John A. Paulson School of Engineering and Applied Sciences · 2024–2025.
-- **Bloomberg Finance Fundamentals** — Bloomberg · 2026.
-- **Fundamentos de Automatización Eléctrica Industrial** — Festo · 2026.
-- **Goldman Sachs Virtual Insights Series** — Participante seleccionado · 2025.
+## 05 — FORMACIÓN
+
+<table>
+  <tr><td><b>2024—2028</b></td><td><b>Ingeniería Industrial</b><br/>Universidad de Lima</td></tr>
+  <tr><td><b>2024—2025</b></td><td><b>Data Science for Privacy and Technology</b><br/>Harvard John A. Paulson School of Engineering and Applied Sciences</td></tr>
+  <tr><td><b>2026</b></td><td><b>Bloomberg Finance Fundamentals</b><br/>Bloomberg</td></tr>
+  <tr><td><b>2026</b></td><td><b>Automatización Eléctrica Industrial</b><br/>Festo</td></tr>
+  <tr><td><b>2025</b></td><td><b>Virtual Insights Series</b><br/>Goldman Sachs · participante seleccionado</td></tr>
+</table>
 
 <img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-## VI — ACTIVIDAD
+<a id="actividad"></a>
+
+## 06 — ACTIVIDAD & SISTEMA DE TRABAJO
 
 <p align="center">
   <img width="100%" src="./assets/activity-motion.svg" alt="Pulso de construcción animado" />
 </p>
 
+<details open>
+<summary><b>Mi ciclo de construcción</b></summary>
+<br/>
+<b>Aprender</b> para formular mejores preguntas → <b>modelar</b> para reducir incertidumbre → <b>construir</b> para probar → <b>medir</b> para decidir → <b>iterar</b> para mejorar.
+</details>
+
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Louis-689&hide_border=true&background=EDE2CE&ring=C56D48&fire=9D563C&currStreakLabel=22362F&sideLabels=22362F&currStreakNum=1D2925&sideNums=1D2925&dates=66706A&locale=es" alt="Racha de contribuciones" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=Louis-689&hide_border=true&background=EDE2CE&ring=C56D48&fire=9D563C&currStreakLabel=22362F&sideLabels=22362F&currStreakNum=1D2925&sideNums=1D2925&dates=66706A&locale=es" alt="Racha de contribuciones" />
 </p>
 
 <img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-## VII — INTERESES
-
-Finanzas cuantitativas · inteligencia artificial · operaciones mineras · robótica · emprendimiento · fútbol · conservación ambiental.
-
-Español e inglés — competencia bilingüe o nativa.
-
-<br/>
+## 07 — INTERESES & CONTACTO
 
 <p align="center">
-  <i>«La estrategia solo importa cuando se convierte en ejecución.»</i>
-  <br/><br/>
-  <a href="mailto:lcavav8@gmail.com"><b>Hablemos</b></a>
+  <img width="100%" src="./assets/closing-cta.svg" alt="Construyamos algo que importe" />
 </p>
+
+<p align="center">
+  Finanzas cuantitativas · IA · operaciones mineras · robótica · emprendimiento · fútbol · conservación ambiental
+  <br/>
+  Español e inglés — competencia bilingüe o nativa
+</p>
+
+<p align="center">
+  <a href="mailto:lcavav8@gmail.com"><img src="https://img.shields.io/badge/HABLEMOS-C56D48?style=for-the-badge&logo=gmail&logoColor=F4E8D0" alt="Hablemos" /></a>
+  <a href="https://www.linkedin.com/in/luis-alejandro-cava-vassi-104424295/"><img src="https://img.shields.io/badge/CONECTEMOS-22362F?style=for-the-badge&logo=linkedin&logoColor=F4E8D0" alt="Conectemos" /></a>
+</p>
+
+<p align="center"><i>«La estrategia solo importa cuando se convierte en ejecución.»</i></p>
