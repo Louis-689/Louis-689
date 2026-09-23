@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Luis Alejandro Cava Vassi — perfil neo-noir</title>
+  <desc id="desc">Banner animado con lluvia, ciudad oscura y resplandor rojo.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020202"/>
+      <stop offset="0.48" stop-color="#090909"/>
+      <stop offset="1" stop-color="#160000"/>
+    </linearGradient>
+    <radialGradient id="signal" cx="50%" cy="38%" r="50%">
+      <stop offset="0" stop-color="#ff1a1a" stop-opacity="0.46"/>
+      <stop offset="0.35" stop-color="#8a0000" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="redline" x1="0" x2="1">
+      <stop offset="0" stop-color="#220000"/>
+      <stop offset="0.5" stop-color="#ff2020"/>
+      <stop offset="1" stop-color="#220000"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="fog" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <pattern id="windows" width="28" height="34" patternUnits="userSpaceOnUse">
+      <rect x="8" y="8" width="5" height="9" rx="1" fill="#7a0b0b" opacity="0.42"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#night)"/>
+  <rect width="1200" height="420" fill="url(#signal)"/>
+
+  <circle cx="600" cy="145" r="62" fill="#8d0d0d" opacity="0.28" filter="url(#glow)">
+    <animate attributeName="r" values="56;69;56" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.42;0.2" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <g opacity="0.9">
+    <path d="M0 330V250H70V285H120V205H190V270H250V175H330V265H390V225H470V288H535V198H625V270H690V150H775V255H835V210H910V280H970V190H1055V262H1110V220H1200V420H0Z" fill="#050505"/>
+    <path d="M0 330V250H70V285H120V205H190V270H250V175H330V265H390V225H470V288H535V198H625V270H690V150H775V255H835V210H910V280H970V190H1055V262H1110V220H1200V420H0Z" fill="url(#windows)" opacity="0.42"/>
+  </g>
+
+  <g fill="#0b0b0b" stroke="#4a0808" stroke-width="2" opacity="0.92">
+    <path d="M82 420V250Q82 192 140 160Q198 192 198 250V420Z"/>
+    <path d="M1002 420V250Q1002 192 1060 160Q1118 192 1118 250V420Z"/>
+  </g>
+
+  <g stroke="#c91818" stroke-width="2" opacity="0.34">
+    <line x1="45" y1="-50" x2="15" y2="25"><animate attributeName="y1" values="-90;430" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y2" values="-15;505" dur="1.1s" repeatCount="indefinite"/></line>
+    <line x1="155" y1="-10" x2="125" y2="65"><animate attributeName="y1" values="-80;440" dur="1.35s" repeatCount="indefinite"/><animate attributeName="y2" values="-5;515" dur="1.35s" repeatCount="indefinite"/></line>
+    <line x1="280" y1="-70" x2="250" y2="5"><animate attributeName="y1" values="-100;420" dur="0.95s" repeatCount="indefinite"/><animate attributeName="y2" values="-25;495" dur="0.95s" repeatCount="indefinite"/></line>
+    <line x1="415" y1="-20" x2="385" y2="55"><animate attributeName="y1" values="-70;450" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y2" values="5;525" dur="1.25s" repeatCount="indefinite"/></line>
+    <line x1="555" y1="-55" x2="525" y2="20"><animate attributeName="y1" values="-95;425" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y2" values="-20;500" dur="1.05s" repeatCount="indefinite"/></line>
+    <line x1="700" y1="-5" x2="670" y2="70"><animate attributeName="y1" values="-85;435" dur="1.4s" repeatCount="indefinite"/><animate attributeName="y2" values="-10;510" dur="1.4s" repeatCount="indefinite"/></line>
+    <line x1="845" y1="-75" x2="815" y2="0"><animate attributeName="y1" values="-105;415" dur="1s" repeatCount="indefinite"/><animate attributeName="y2" values="-30;490" dur="1s" repeatCount="indefinite"/></line>
+    <line x1="980" y1="-30" x2="950" y2="45"><animate attributeName="y1" values="-75;445" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y2" values="0;520" dur="1.3s" repeatCount="indefinite"/></line>
+    <line x1="1140" y1="-60" x2="1110" y2="15"><animate attributeName="y1" values="-100;420" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y2" values="-25;495" dur="1.15s" repeatCount="indefinite"/></line>
+  </g>
+
+  <g filter="url(#fog)" fill="#8a1010" opacity="0.12">
+    <ellipse cx="150" cy="330" rx="280" ry="28"><animate attributeName="cx" values="80;450;80" dur="14s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="980" cy="355" rx="330" ry="34"><animate attributeName="cx" values="1050;720;1050" dur="17s" repeatCount="indefinite"/></ellipse>
+  </g>
+
+  <rect x="120" y="98" width="960" height="1" fill="url(#redline)" opacity="0.8">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="600" y="170" text-anchor="middle" fill="#f1f1f1" font-family="Georgia,serif" font-size="48" font-weight="700" letter-spacing="5" filter="url(#glow)">
+    LUIS ALEJANDRO CAVA VASSI
+    <animate attributeName="opacity" values="0;1;1" dur="2.2s" fill="freeze"/>
+  </text>
+  <text x="600" y="214" text-anchor="middle" fill="#d32626" font-family="Georgia,serif" font-size="18" letter-spacing="7">
+    ESTRATEGIA  ·  DATOS  ·  EJECUCIÓN
+    <animate attributeName="opacity" values="0;0;1" dur="3.2s" fill="freeze"/>
+  </text>
+  <text x="600" y="252" text-anchor="middle" fill="#8f8f8f" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">
+    INDUSTRIAL ENGINEERING  /  QUANT  /  AI
+    <animate attributeName="opacity" values="0.3;0.85;0.3" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <rect x="0" y="0" width="1200" height="3" fill="#b31313">
+    <animate attributeName="y" values="0;417;0" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.35;0" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <rect y="410" width="1200" height="10" fill="url(#redline)" opacity="0.75"/>
+</svg>
