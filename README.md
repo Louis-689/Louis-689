@@ -1,151 +1,140 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/renaissance-cover.svg" width="100%" alt="Luis Cava — portada renacentista animada" />
+</p>
 
-![Banner neo-noir animado](./assets/noir-header.svg)
+<p align="center">
+  <img src="./assets/identity-motion.svg" width="100%" alt="Ingeniería Industrial, Quant, IA y Estrategia" />
+</p>
 
-[![Texto animado](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=25&duration=2600&pause=650&color=E31837&center=true&vCenter=true&width=1000&lines=Entre+n%C3%BAmeros+y+sombras%2C+construyo+estrategia;Quant+%E2%80%A2+IA+%E2%80%A2+Operaciones+%E2%80%A2+Impacto;La+disciplina+convierte+visi%C3%B3n+en+ejecuci%C3%B3n;Buscando+retos+para+Summer+2027)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-alejandro-cava-vassi-104424295/">
+    <img src="https://img.shields.io/badge/LinkedIn-22362F?style=flat-square&logo=linkedin&logoColor=F4E8D0" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lcavav8@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-C56D48?style=flat-square&logo=gmail&logoColor=F4E8D0" alt="Correo" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Louis-689&label=Visitas&color=22362F&style=flat-square" alt="Visitas del perfil" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTEMOS-050505?style=for-the-badge&logo=linkedin&logoColor=E31837)](https://www.linkedin.com/in/luis-alejandro-cava-vassi-104424295/)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACTO-050505?style=for-the-badge&logo=gmail&logoColor=E31837)](mailto:lcavav8@gmail.com)
-![Visitas](https://komarev.com/ghpvc/?username=Louis-689&label=VISITAS&color=8B0000&style=for-the-badge)
+<img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-</div>
+## I — PERFIL
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:950000,100:050505&height=3&section=header" />
+Soy estudiante de **Ingeniería Industrial en la Universidad de Lima** y emprendedor peruano. Trabajo en el punto donde los datos dejan de ser teoría y se convierten en decisiones: mercados, operaciones, tecnología y negocios.
 
-## 🕯️ SOBRE MÍ
+Construyo con mentalidad analítica y obsesión por ejecutar. Actualmente profundizo en **finanzas cuantitativas**, **trading algorítmico**, **inteligencia artificial** y **optimización de operaciones**.
 
-Soy emprendedor peruano y estudiante de **Ingeniería Industrial en la Universidad de Lima**. Trabajo en la intersección entre datos, estrategia y ejecución: convertir problemas complejos en decisiones claras y resultados medibles.
+<table>
+  <tr>
+    <td width="33%" align="center"><b>S/ 30K+</b><br/><sub>ganancias generadas</sub></td>
+    <td width="33%" align="center"><b>10 personas</b><br/><sub>equipo liderado</sub></td>
+    <td width="33%" align="center"><b>Summer 2027</b><br/><sub>objetivo profesional</sub></td>
+  </tr>
+</table>
 
-- 📉 **Finanzas cuantitativas y trading algorítmico** — modelos, mercados y decisiones bajo incertidumbre.
-- 🧠 **Inteligencia artificial** — tecnología aplicada a problemas reales.
-- ⛏️ **Operaciones mineras** — optimización, innovación y eficiencia operativa.
-- 🩸 **Emprendimiento** — fundé y escalé **BonGallete**: más de **S/ 30,000 en ganancias**, múltiples canales y un equipo de hasta **10 personas**.
-- 🏦 Seleccionado para la **Goldman Sachs Virtual Insights Series 2025**.
-- 🎯 Busco oportunidades de prácticas para **Summer 2027** en finanzas, tecnología, operaciones y estrategia.
+<img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:950000,100:050505&height=3&section=header" />
+## II — EN QUÉ ESTOY TRABAJANDO
 
-## ⚙️ TECH STACK // HERRAMIENTAS
+- Desarrollando criterio técnico en **modelos cuantitativos y mercados**.
+- Explorando aplicaciones de **IA** para problemas financieros y operativos.
+- Estudiando innovación y eficiencia en **operaciones mineras**.
+- Buscando prácticas para **Summer 2027** en finanzas, tecnología, operaciones o estrategia.
 
-<div align="center">
+### Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-080808?style=for-the-badge&logo=cplusplus&logoColor=E31837)
-![Excel](https://img.shields.io/badge/MICROSOFT_EXCEL-080808?style=for-the-badge&logo=microsoftexcel&logoColor=E31837)
-![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ_IDEA-080808?style=for-the-badge&logo=intellijidea&logoColor=E31837)
-![Replit](https://img.shields.io/badge/REPLIT-080808?style=for-the-badge&logo=replit&logoColor=E31837)
-![HubSpot](https://img.shields.io/badge/HUBSPOT-080808?style=for-the-badge&logo=hubspot&logoColor=E31837)
-![Gamma](https://img.shields.io/badge/GAMMA-080808?style=for-the-badge&logoColor=E31837)
-![GitHub](https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=E31837)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-22362F?style=for-the-badge&logo=cplusplus&logoColor=F4E8D0" alt="C++" />
+  <img src="https://img.shields.io/badge/Excel-385747?style=for-the-badge&logo=microsoftexcel&logoColor=F4E8D0" alt="Excel" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-22362F?style=for-the-badge&logo=intellijidea&logoColor=F4E8D0" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Replit-C56D48?style=for-the-badge&logo=replit&logoColor=F4E8D0" alt="Replit" />
+  <img src="https://img.shields.io/badge/HubSpot-9D563C?style=for-the-badge&logo=hubspot&logoColor=F4E8D0" alt="HubSpot" />
+  <img src="https://img.shields.io/badge/GitHub-1D2925?style=for-the-badge&logo=github&logoColor=F4E8D0" alt="GitHub" />
+</p>
 
-</div>
+<img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:950000,100:050505&height=3&section=header" />
+## III — EMPRENDIMIENTO & LIDERAZGO
 
-## 🏆 PREMIOS & LIDERAZGO
+### BonGallete — Fundador & CEO
 
-### Liderazgo
+Construí y escalé una operación de producción, venta y distribución con más de **S/ 30,000 en ganancias**, presencia en múltiples canales y un equipo de hasta **10 personas**.
 
-- 🩸 **Fundador & CEO de BonGallete** — producción, ventas, distribución, negociación y liderazgo de un equipo de hasta 10 personas.
-- ⚽ **Vicepresidente Ejecutivo del Club Oficial de Aficionados del Manchester City FC en Perú** — eventos, comunicaciones y comunidad.
-- 💻 **Coordinador de la OII y miembro del círculo fundador de FOPI 2024**.
+### FOPI / OII — Coordinación y círculo fundador
 
-### Reconocimientos destacados
+Coordinador de la Olimpiada Internacional de Informática y miembro del círculo fundador de la Federación Olímpica Peruana de Informática en 2024.
 
-- 🥇 **Concurso Nacional Crea y Emprende** — 1.er puesto en Lima y a nivel nacional.
-- 🌑 **Make it Resilient and Green Future** — Top 3% mundial.
-- 🏆 **Coolest Projects 2024** — Mejor Proyecto del Perú y mención honorífica en Favorite Projects.
-- 🤖 **World Robot Olympiad 2024** — 4.º puesto nacional.
-- 📈 **The Wolves of Wall Street** — Runner-up en competencia internacional de inversión.
-- ⭐ **Future Changemakers Program** — Recognition for Excellence.
+### Manchester City Supporters Club Perú — Vicepresidencia Ejecutiva
+
+Organización de eventos, comunicaciones y desarrollo de comunidad.
+
+<img src="./assets/motion-divider.svg" width="100%" alt="" />
+
+## IV — RECONOCIMIENTOS SELECTOS
+
+| Año | Reconocimiento |
+|:---:|---|
+| **2025** | Virtual Harvard Youth Leadership Summit — Recognition of Participation |
+| **2025** | Yale International Relations Essay Competition — Certificate of Participation |
+| **2024** | The Wolves of Wall Street — **Runner-up**, competencia internacional de inversión |
+| **2024** | World Robot Olympiad Perú — **4.º puesto nacional** |
+| **2024** | Coolest Projects — **Mejor Proyecto del Perú** y mención honorífica |
+| **2023** | Concurso Nacional Crea y Emprende — **1.er puesto en Lima y a nivel nacional** |
 
 <details>
-<summary><b>🗝️ Abrir el archivo completo: 13 reconocimientos</b></summary>
-<br>
+<summary><b>Abrir archivo completo — 13 reconocimientos</b></summary>
+<br/>
 
-1. **Virtual Harvard Youth Leadership Summit (VHYLS) — Recognition of Participation**  
-   Harvard University · HPAIR — marzo de 2025.
-2. **Yale International Relations Essay Competition — Certificate of Participation**  
-   Yale International Relations Association · Learn with Leaders — marzo de 2025.
-3. **The Wolves of Wall Street — Runner Up**  
-   Harvard Student Agencies · Learn with Leaders — octubre de 2024.
-4. **World Robot Olympiad — 4th Place Nationally**  
-   World Robot Olympiad Peru — septiembre de 2024.
-5. **International Youth Day 2024 — Selected Hispanic Representative**  
-   Harvard University · Learn with Leaders — agosto de 2024.
-6. **Future Changemakers Program — Recognition for Excellence**  
-   Harvard Student Agencies — julio de 2024.
-7. **Coolest Projects 2024 — Best Project from Peru and Honorable Mention**  
-   Raspberry Pi Foundation — junio de 2024.
-8. **Coordinator of the OII and Founding Circle Member of FOPI 2024**  
-   Federación Olímpica Peruana de Informática — junio de 2024.
-9. **Distinción Académica — Círculo de Análisis y Diseño de Algoritmos (CADAL)**  
-   Universidad de Lima — mayo de 2024.
-10. **Reconocimiento Ministerial por contribución a la salud pública en publicidad y marketing**  
-    Ministerio de Salud del Perú — marzo de 2024.
-11. **Concurso Nacional Crea y Emprende — 1.er puesto en Lima y a nivel nacional**  
-    Ministerio de Educación del Perú — diciembre de 2023.
-12. **Feria Escolar Nacional de Ciencia y Tecnología Eureka — 4.º puesto nacional**  
-    Ministerio de Educación del Perú — noviembre de 2023.
-13. **Make it Resilient and Green Future — Top 3% mundial**.
+1. **Virtual Harvard Youth Leadership Summit (VHYLS)** — Recognition of Participation · Harvard University / HPAIR · mar. 2025.
+2. **Yale International Relations Essay Competition** — Certificate of Participation · Yale International Relations Association / Learn with Leaders · mar. 2025.
+3. **The Wolves of Wall Street** — Runner-up · Harvard Student Agencies / Learn with Leaders · oct. 2024.
+4. **World Robot Olympiad Perú** — 4.º puesto nacional · sept. 2024.
+5. **International Youth Day 2024** — Representante hispano seleccionado · Harvard University / Learn with Leaders · ago. 2024.
+6. **Future Changemakers Program** — Recognition for Excellence · Harvard Student Agencies · jul. 2024.
+7. **Coolest Projects 2024** — Mejor Proyecto del Perú y mención honorífica en Favorite Projects · Raspberry Pi Foundation · jun. 2024.
+8. **OII / FOPI 2024** — Coordinador y miembro del círculo fundador · jun. 2024.
+9. **Distinción Académica CADAL** — Universidad de Lima · may. 2024.
+10. **Reconocimiento ministerial por contribución a la salud pública** — Publicidad y marketing · MINSA · mar. 2024.
+11. **Concurso Nacional Crea y Emprende** — 1.er puesto en Lima y a nivel nacional · MINEDU · dic. 2023.
+12. **Feria Nacional de Ciencia y Tecnología Eureka** — 4.º puesto nacional · MINEDU · nov. 2023.
+13. **Make it Resilient and Green Future** — Top 3% mundial.
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:950000,100:050505&height=3&section=header" />
+<img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-## 🎓 EDUCACIÓN // CREDENCIALES
+## V — FORMACIÓN
 
-- **Ingeniería Industrial** — Universidad de Lima, 2024–2028.
-- **Data Science for Privacy and Technology** — Harvard John A. Paulson School of Engineering and Applied Sciences, 2024–2025.
-- **Bloomberg Finance Fundamentals** — Bloomberg, 2026.
-- **Fundamentos de la Técnica para la Automatización Eléctrica Industrial** — Festo, 2026.
+- **Ingeniería Industrial** — Universidad de Lima · 2024–2028.
+- **Data Science for Privacy and Technology** — Harvard John A. Paulson School of Engineering and Applied Sciences · 2024–2025.
+- **Bloomberg Finance Fundamentals** — Bloomberg · 2026.
+- **Fundamentos de Automatización Eléctrica Industrial** — Festo · 2026.
+- **Goldman Sachs Virtual Insights Series** — Participante seleccionado · 2025.
 
-## 🎸 INTERESES
+<img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-<div align="center">
+## VI — ACTIVIDAD
 
-![Quant](https://img.shields.io/badge/FINANZAS_CUANTITATIVAS-080808?style=for-the-badge&logoColor=E31837)
-![IA](https://img.shields.io/badge/INTELIGENCIA_ARTIFICIAL-080808?style=for-the-badge&logoColor=E31837)
-![Minería](https://img.shields.io/badge/OPERACIONES_MINERAS-080808?style=for-the-badge&logoColor=E31837)
-![Emprendimiento](https://img.shields.io/badge/EMPRENDIMIENTO-080808?style=for-the-badge&logoColor=E31837)
-![Robótica](https://img.shields.io/badge/ROB%C3%93TICA-080808?style=for-the-badge&logoColor=E31837)
-![Fútbol](https://img.shields.io/badge/F%C3%9ATBOL-080808?style=for-the-badge&logoColor=E31837)
-![Sostenibilidad](https://img.shields.io/badge/SOSTENIBILIDAD-080808?style=for-the-badge&logoColor=E31837)
+<p align="center">
+  <img width="100%" src="./assets/activity-motion.svg" alt="Pulso de construcción animado" />
+</p>
 
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Louis-689&hide_border=true&background=EDE2CE&ring=C56D48&fire=9D563C&currStreakLabel=22362F&sideLabels=22362F&currStreakNum=1D2925&sideNums=1D2925&dates=66706A&locale=es" alt="Racha de contribuciones" />
+</p>
 
-Mercados, robótica, innovación aplicada a operaciones, fútbol —especialmente el Manchester City—, emprendimiento y conservación ambiental.
+<img src="./assets/motion-divider.svg" width="100%" alt="" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:950000,100:050505&height=3&section=header" />
+## VII — INTERESES
 
-## 📊 SEÑALES // ACTIVIDAD EN GITHUB
+Finanzas cuantitativas · inteligencia artificial · operaciones mineras · robótica · emprendimiento · fútbol · conservación ambiental.
 
-<div align="center">
+Español e inglés — competencia bilingüe o nativa.
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=Louis-689&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)
+<br/>
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Louis-689&show_icons=true&title_color=E31837&text_color=C9C9C9&icon_color=E31837&border_color=5A0000&bg_color=050505&locale=es&include_all_commits=true)
-
-![Racha](https://streak-stats.demolab.com?user=Louis-689&hide_border=true&background=050505&ring=E31837&fire=E31837&currStreakLabel=E31837&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&locale=es)
-
-![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Louis-689&bg_color=050505&color=C9C9C9&line=E31837&point=FFFFFF&area=true&area_color=5A0000&hide_border=true&custom_title=Actividad%20reciente)
-
-</div>
-
-## 🌎 IDIOMAS
-
-- **Español** — competencia bilingüe o nativa.
-- **Inglés** — competencia bilingüe o nativa.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:950000,100:050505&height=3&section=header" />
-
-## 🦇 CONECTEMOS
-
-Estoy abierto a colaborar en proyectos de Quant, IA, operaciones, minería, sostenibilidad y emprendimiento. Si estás construyendo algo ambicioso —o buscas un practicante con visión analítica para Summer 2027— conversemos.
-
-<div align="center">
-
-### «La estrategia genera valor cuando sobrevive a la oscuridad y se convierte en ejecución.»
-
-![Cierre](https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:050505&height=160&section=footer&animation=fadeIn)
-
-</div>
+<p align="center">
+  <i>«La estrategia solo importa cuando se convierte en ejecución.»</i>
+  <br/><br/>
+  <a href="mailto:lcavav8@gmail.com"><b>Hablemos</b></a>
+</p>
