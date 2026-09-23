@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/renaissance-cover.svg" width="100%" alt="Luis Cava — portada renacentista animada" />
+  <img src="./assets/renaissance-color-hero-v4.png" width="100%" alt="Luis Cava — portada editorial renacentista" />
 </p>
 
 <p align="center">
