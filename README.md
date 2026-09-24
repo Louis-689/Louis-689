@@ -28,7 +28,7 @@
 
 ## 01 — PERFIL
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
       <h3>Datos → decisiones → ejecución</h3>
@@ -93,7 +93,7 @@
 
 ## 03 — IMPACTO & LIDERAZGO
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="33%" valign="top"><h3>BonGallete</h3><p><b>Fundador & CEO</b><br/>S/ 30K+ en ganancias · equipo de 10</p></td>
     <td width="33%" valign="top"><h3>FOPI / OII</h3><p><b>Coordinador</b><br/>Círculo fundador · 2024</p></td>
@@ -107,14 +107,15 @@
 
 ## 04 — RECONOCIMIENTOS
 
-| Año | Distinción | Resultado |
-|:---:|---|---|
-| **2025** | Harvard Youth Leadership Summit | Participación reconocida |
-| **2025** | Yale International Relations Essay Competition | Participante |
-| **2024** | The Wolves of Wall Street | **Runner-up internacional** |
-| **2024** | World Robot Olympiad Perú | **4.º nacional** |
-| **2024** | Coolest Projects | **Mejor proyecto del Perú** |
-| **2023** | Crea y Emprende | **1.er puesto nacional** |
+<table align="center" width="88%">
+  <tr><th>Año</th><th>Distinción</th><th>Resultado</th></tr>
+  <tr><td align="center"><b>2025</b></td><td>Harvard Youth Leadership Summit</td><td>Participación reconocida</td></tr>
+  <tr><td align="center"><b>2025</b></td><td>Yale International Relations Essay Competition</td><td>Participante</td></tr>
+  <tr><td align="center"><b>2024</b></td><td>The Wolves of Wall Street</td><td><b>Runner-up internacional</b></td></tr>
+  <tr><td align="center"><b>2024</b></td><td>World Robot Olympiad Perú</td><td><b>4.º nacional</b></td></tr>
+  <tr><td align="center"><b>2024</b></td><td>Coolest Projects</td><td><b>Mejor proyecto del Perú</b></td></tr>
+  <tr><td align="center"><b>2023</b></td><td>Crea y Emprende</td><td><b>1.er puesto nacional</b></td></tr>
+</table>
 
 <details>
 <summary><b>🏆 Ver otros reconocimientos</b></summary>
@@ -135,7 +136,7 @@
 
 ## 05 — FORMACIÓN
 
-<table>
+<table align="center" width="76%">
   <tr><th>Educación</th><th></th></tr>
   <tr><td><b>2024—2028</b></td><td><b>Ingeniería Industrial</b><br/>Universidad de Lima</td></tr>
   <tr><td><b>2024—2025</b></td><td><b>Data Science for Privacy & Technology</b><br/>Harvard SEAS</td></tr>
