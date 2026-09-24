@@ -2,6 +2,19 @@
   <title id="title">Invitación animada a construir juntos</title>
   <desc id="desc">Cierre editorial animado de Luis Cava.</desc>
   <rect width="1200" height="210" rx="18" fill="#1d2925"/>
+  <g fill="none" stroke="#5f8f68" stroke-linecap="round" opacity=".78">
+    <path d="M4 3C28 20 12 54 48 73S72 122 58 168" stroke-width="3"/>
+    <path d="M1196 3C1172 20 1188 54 1152 73S1128 122 1142 168" stroke-width="3"/>
+    <g fill="#79a879" stroke="none">
+      <ellipse cx="25" cy="34" rx="6" ry="12" transform="rotate(-48 25 34)"/>
+      <ellipse cx="49" cy="76" rx="6" ry="12" transform="rotate(48 49 76)"/>
+      <ellipse cx="62" cy="126" rx="6" ry="12" transform="rotate(-44 62 126)"/>
+      <ellipse cx="1175" cy="34" rx="6" ry="12" transform="rotate(48 1175 34)"/>
+      <ellipse cx="1151" cy="76" rx="6" ry="12" transform="rotate(-48 1151 76)"/>
+      <ellipse cx="1138" cy="126" rx="6" ry="12" transform="rotate(44 1138 126)"/>
+    </g>
+    <animate attributeName="opacity" values=".55;.9;.55" dur="5.5s" repeatCount="indefinite"/>
+  </g>
   <g fill="none" stroke="#e7b78c" stroke-opacity=".28">
     <circle cx="92" cy="105" r="30"><animate attributeName="r" values="24;74;24" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;.05;.6" dur="5s" repeatCount="indefinite"/></circle>
     <circle cx="1108" cy="105" r="30"><animate attributeName="r" values="74;24;74" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".05;.6;.05" dur="5s" repeatCount="indefinite"/></circle>

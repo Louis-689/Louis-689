@@ -8,7 +8,14 @@
       <stop offset="1" stop-color="#22362f" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="60" y="14" width="1080" height="1.5" fill="url(#line)"/>
+  <path d="M60 15C240 4 390 26 600 15S960 4 1140 15" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <g fill="#5f8f68" opacity=".78">
+    <ellipse cx="260" cy="11" rx="9" ry="4" transform="rotate(-22 260 11)"/>
+    <ellipse cx="420" cy="20" rx="9" ry="4" transform="rotate(24 420 20)"/>
+    <ellipse cx="780" cy="11" rx="9" ry="4" transform="rotate(-22 780 11)"/>
+    <ellipse cx="940" cy="20" rx="9" ry="4" transform="rotate(24 940 20)"/>
+    <animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/>
+  </g>
   <circle cx="60" cy="15" r="4" fill="#c56d48">
     <animate attributeName="cx" values="60;1140;60" dur="8s" repeatCount="indefinite"/>
     <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>

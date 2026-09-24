@@ -9,6 +9,21 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="220" rx="16" fill="url(#paper)"/>
+  <g fill="none" stroke="#385747" stroke-linecap="round" opacity=".62">
+    <g stroke-width="3">
+      <path d="M4 4C28 20 18 55 48 70S76 112 60 150"/>
+      <path d="M1196 4C1172 20 1182 55 1152 70S1124 112 1140 150"/>
+    </g>
+    <g fill="#5f8f68" stroke="none">
+      <ellipse cx="28" cy="35" rx="6" ry="12" transform="rotate(-45 28 35)"/>
+      <ellipse cx="50" cy="76" rx="6" ry="12" transform="rotate(48 50 76)"/>
+      <ellipse cx="64" cy="119" rx="6" ry="12" transform="rotate(-42 64 119)"/>
+      <ellipse cx="1172" cy="35" rx="6" ry="12" transform="rotate(45 1172 35)"/>
+      <ellipse cx="1150" cy="76" rx="6" ry="12" transform="rotate(-48 1150 76)"/>
+      <ellipse cx="1136" cy="119" rx="6" ry="12" transform="rotate(42 1136 119)"/>
+    </g>
+    <animate attributeName="opacity" values=".48;.76;.48" dur="5s" repeatCount="indefinite"/>
+  </g>
   <path d="M40 38H1160M40 182H1160" stroke="#22362f" stroke-opacity=".22"/>
   <g stroke="#22362f" stroke-opacity=".16"><path d="M300 58V166M600 58V166M900 58V166"/></g>
   <g font-family="Arial,sans-serif" text-anchor="middle" fill="#22362f">

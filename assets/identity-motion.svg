@@ -2,6 +2,17 @@
   <title id="title">Identidad profesional animada</title>
   <desc id="desc">Mensajes profesionales de Luis Cava que aparecen de forma alternada.</desc>
   <rect width="1200" height="116" rx="12" fill="#ede2ce"/>
+  <g fill="none" stroke="#385747" stroke-linecap="round" opacity=".62">
+    <path d="M3 3C25 16 17 43 49 55S72 88 66 113M1197 3C1175 16 1183 43 1151 55S1128 88 1134 113" stroke-width="2.5"/>
+    <g fill="#5f8f68" stroke="none">
+      <ellipse cx="25" cy="24" rx="5" ry="10" transform="rotate(-48 25 24)"/>
+      <ellipse cx="49" cy="58" rx="5" ry="10" transform="rotate(48 49 58)"/>
+      <ellipse cx="64" cy="91" rx="5" ry="10" transform="rotate(-44 64 91)"/>
+      <ellipse cx="1175" cy="24" rx="5" ry="10" transform="rotate(48 1175 24)"/>
+      <ellipse cx="1151" cy="58" rx="5" ry="10" transform="rotate(-48 1151 58)"/>
+      <ellipse cx="1136" cy="91" rx="5" ry="10" transform="rotate(44 1136 91)"/>
+    </g>
+  </g>
   <path d="M42 18H1158M42 98H1158" stroke="#22362f" stroke-opacity=".2"/>
   <circle cx="600" cy="18" r="4" fill="#c56d48">
     <animate attributeName="cx" values="42;1158;42" dur="12s" repeatCount="indefinite"/>

@@ -14,6 +14,19 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="240" rx="14" fill="url(#paper)"/>
+  <g fill="none" stroke="#385747" stroke-linecap="round" opacity=".58">
+    <path d="M6 4C24 28 14 62 44 79S66 126 52 160" stroke-width="3"/>
+    <path d="M1194 4C1176 28 1186 62 1156 79S1134 126 1148 160" stroke-width="3"/>
+    <g fill="#5f8f68" stroke="none">
+      <ellipse cx="24" cy="34" rx="6" ry="11" transform="rotate(-48 24 34)"/>
+      <ellipse cx="47" cy="82" rx="6" ry="11" transform="rotate(46 47 82)"/>
+      <ellipse cx="57" cy="130" rx="6" ry="11" transform="rotate(-44 57 130)"/>
+      <ellipse cx="1176" cy="34" rx="6" ry="11" transform="rotate(48 1176 34)"/>
+      <ellipse cx="1153" cy="82" rx="6" ry="11" transform="rotate(-46 1153 82)"/>
+      <ellipse cx="1143" cy="130" rx="6" ry="11" transform="rotate(44 1143 130)"/>
+    </g>
+    <animate attributeName="opacity" values=".42;.7;.42" dur="6s" repeatCount="indefinite"/>
+  </g>
   <g stroke="#22362f" stroke-opacity=".12">
     <path d="M55 55H1145M55 105H1145M55 155H1145M55 205H1145"/>
     <path d="M180 35V210M400 35V210M620 35V210M840 35V210M1060 35V210"/>
